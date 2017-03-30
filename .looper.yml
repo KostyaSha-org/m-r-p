@@ -5,4 +5,4 @@ flows:
     pwd
     git status
     git config --global push.default simple
-    git push
+    git push --set-upstream origin master
