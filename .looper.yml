@@ -4,4 +4,5 @@ flows:
     env
     pwd
     git status
+    git config --global push.default simple
     git push
