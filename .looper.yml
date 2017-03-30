@@ -3,3 +3,4 @@ flows:
     echo ok
     env
     pwd
+    git push
