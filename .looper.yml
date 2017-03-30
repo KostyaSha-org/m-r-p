@@ -1,5 +1,5 @@
 flows:
-  default: |
+  default(on vagrant): |
     echo ok
     env
     pwd
